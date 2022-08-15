@@ -12,21 +12,21 @@ import img7 from "../assets/cuentos/7.png";
 const datosCuentos = [
   {
     id: 1,
-    nombre: "Flopy y el cerebro dormilón",
+    nombre: "Y el cerebro dormilón",
     id_Scratch: 721835350,
     autores: "Sofía Coñuecar Silva",
     imagen: img1,
   },
   {
     id: 2,
-    nombre: "Flopy y el mundo de las verdufrutas",
+    nombre: "Y el mundo de las verdufrutas",
     id_Scratch: 721836947,
     autores: "Sofía Coñuecar Silva",
     imagen: img2,
   },
   {
     id: 3,
-    nombre: "Flopy y su abuelita enferma",
+    nombre: "Y su abuelita enferma",
     id_Scratch: 721837588,
     autores: "Sofía Coñuecar Silva",
     imagen: img3,
@@ -34,36 +34,33 @@ const datosCuentos = [
 
   {
     id: 4,
-    nombre: "Flopy y las legumbres",
+    nombre: "Y las legumbres",
     id_Scratch: 713182857,
     autores: "Sofía Coñuecar Silva",
     imagen: img4,
   },
   {
     id: 5,
-    nombre: "Flopy y y la caida",
+    nombre: "Y la caida",
     id_Scratch: 721838286,
     autores: "Sofía Coñuecar Silva",
     imagen: img5,
   },
   {
     id: 6,
-    nombre: "Flopy y la caleta",
+    nombre: "Y la caleta",
     id_Scratch: 721838701,
     autores: "Sofía Coñuecar Silva y Maryelsa Rojas Lopéz",
     imagen: img6,
   },
   {
     id: 7,
-    nombre: "Flopy y las pastillas magicas",
+    nombre: "Y las pastillas magicas",
     id_Scratch: 721838974,
     autores: "Sofía Coñuecar Silva y Maryelsa Rojas Lopéz",
     imagen: img7,
   },
 ];
-
-// const linkImg1 = "./assets/cuentos/";
-// const linkImg2 = ".png";
 
 const linkScratch1 = "https://scratch.mit.edu/projects/";
 const linkScratch2 = "/embed";
